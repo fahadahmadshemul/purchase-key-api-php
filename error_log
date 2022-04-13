@@ -1,0 +1,1 @@
+[11-Apr-2022 22:05:00 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/fahadfnfplanet/api.fahad.fnfplanet.com/index.php on line 14
